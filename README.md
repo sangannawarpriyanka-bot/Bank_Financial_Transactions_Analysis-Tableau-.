@@ -1,6 +1,6 @@
 # 📊 Banking Analytics Dashboard | Tableau Project
 
-<img width="722" height="480" alt="image" src="https://github.com/user-attachments/assets/5adbf526-c2ee-4f9a-8445-960e6b63ff82" />
+<img width="722" height="380" alt="image" src="https://github.com/user-attachments/assets/5adbf526-c2ee-4f9a-8445-960e6b63ff82" />
 
 
 ## 🏦 Project Overview:
