@@ -1,5 +1,8 @@
 # 📊 Banking Analytics Dashboard | Tableau Project
 
+<img width="722" height="480" alt="image" src="https://github.com/user-attachments/assets/5adbf526-c2ee-4f9a-8445-960e6b63ff82" />
+
+
 ## 🏦 Project Overview:
 This project presents an **end-to-end Banking Analytics Dashboard** built using **Tableau**, focusing on **customer behavior, loan performance, credit risk, and branch-wise financial insights** for **January 2026**.
 
